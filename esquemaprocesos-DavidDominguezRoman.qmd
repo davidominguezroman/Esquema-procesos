@@ -1,0 +1,585 @@
+---
+title: "Esquema resumen de Procesos y Contextos Educativos"
+author: 
+  - David Domínguez Román
+  - Máster de Educación Secundaria F y Q
+  - Universidad de La Rioja
+lang: es
+tbl-cap-location: bottom
+format: 
+  pdf:
+      documentclass: article
+      papersize: a4
+      toc: true
+      number-sections: true
+      colorlinks: true
+      mainfont: Arial
+      sansfont: Arial
+      fontfamilyoptions: sfdefault
+      fontsize: 12pt
+      spacing: onehalf
+      section-numbering: true
+      indent: true
+      geometry: 
+        - top=2.5cm
+        - bottom=2.5cm
+        - left=3cm
+        - right=3cm
+      first-line-indent:
+          size: 0.5em
+      header-includes:
+        - \setlength\parindent{0.5cm}
+        - \usepackage{indentfirst}
+        - \usepackage{setspace}
+        - \onehalfspacing
+        - \usepackage{titling}
+        - \pretitle{\begin{center}
+          \includegraphics[width=2in,height=2in]{logo.png}\LARGE\\}
+        - \posttitle{\end{center}}
+---
+
+\newpage
+
+# Introducción {.unnumbered}
+
+Cuando, los que ahora estamos estudiando, impartamos clase, será imprescindible planificar los temas de las asignaturas. Esta planificación deberá estar de acuerdo con la legislación vigente en ese momento. Todos aquellos elementos relativos a la enseñanza y el aprendizaje los estudia la didáctica. Esto incluye la metodología, el qué se enseña, cómo se enseña y cómo se organiza la enseñanza.
+
+Las guías docentes de las asignaturas forman parte de la didáctica general. Este resumen incluye los datos más fundamentales de la asignatura, de cara a tener todo el contenido resumido cuando se prepare una oposición.
+
+# Factores que inciden en el proceso de enseñanza y aprendizaje
+
+En este tema tiene 3 objetivos:
+
+-   Identificar los factores que inciden en todo proceso de enseñanza-aprendizaje.
+-   Analizar la repercusión de estos factores en el aprendizaje del alumnado.
+-   Tener en cuenta estos factores en la práctica como futuro docente.
+
+Con las clases se genera un producto. Este producto puede ser:
+
+-   Cuantitativo: lo que todo el mundo espera -\> la nota.
+-   Cualitativo: aprender a ser un buen ciudadano, disciplina organización,...
+
+Este esquema resume el proceso:
+
+![Proceso de la enseñanza-aprendizaje](imagenes/img1.png){#fig-proc fig-align="center" width="50%"}
+
+El rendimiento de un alumno es objetivo hasta cierto punto. Siempre es importante diseñar unas buenas rúbricas que sean lo más detalladas posibles. A la hora de preparar una asignatura hay que tener en cuenta qué asignatura es, de qué curso, qué relación hay con las otras asignaturas que tiene, el tipo de estudiantado. En base a eso debe elegir la metodología adecuada, cómo afrontar la enseñanza, etc.
+
+En la @fig-proc , el primero de los pasos es el presagio. Entre los factores que afectan al presagio se encuentran los siguientes:
+
+![Factores de presagio](imagenes/img2.png){#fig-pres fig-align="center" width="70%"}
+
+Hay estudiantes que son más curiosos y realizan preguntas más difíciles, buscando un conocimiento más profundo; mientras otros prefieren un aprendizaje más esencial, quedándose en lo básico. Entender los conocimientos previos que tienen los estudiantes es importante, así como conocer el nivel del aula y las motivaciones y capacidades de los estudiantes. Las expectativas de los estudiantes y a qué atribuyen sus éxitos y fracasos también es importante.
+
+Pero no solo los profesores tienen que tener en cuenta aspectos de los estudiantes. Los estudiantes también tienen que tener en cuenta los rasgos personales de los profesores, lo competentes que son y las expectativas que ellos tienen de los alumnos.
+
+Todos tiene que valorar el contexto: la realidad social del centro, el proyecto educativo, los recursos que hay o el clima que hay en el aula.
+
+> ***Mi opinión***: En la enseñanza es importante recordar que todas las partes tiene que cooperar y comprenderse para que todo el proceso funcione. En mi adolescencia ya tuve que sufrir consecuencias derivadas de una mala comprensión y me gustaría poder evitar que eso pase, en la medida de lo posible.
+
+## Abandono y fracaso escolar
+
+El abandono escolar siempre se ha considerado como un iceberg: lo que se ve solo es la punta.
+
+Es necesario aclarar diferentes conceptos:
+
+-   **Fracaso escolar**: estudiantes que no han logrado los objetivos de la enseñanza obligatoria.
+
+-   **Abandono escolar**: personas entre 18 y 24 años que no tienen estudios post-obligatorios.
+
+El fracaso y el abandono escolares afloran en la educación secundaria. En primaria no es tan alto el número de fracasos y suspensos, aunque sí que ocurren. Hay diferentes factores que pueden fomentar que esto suceda: las dificultades con el idioma, problemas mentales, problemas sociales, TDAH, etc. El curso más complicado en la ESO es 3º. Cuando se tienen 15 años, el cómo diferentes situaciones nos afectan resulta ser algo muy complicado. España es de los primeros países en estos aspectos, abandonando más los hombres que las mujeres. Es importante mencionar también que, en cuanto a las tasas de abandono, fracaso y repetición, hay bastante disparidad entre las diferentes comunidades autónomas.
+
+Entre las soluciones o mejoras se encuentra el generar grupos heterogéneos o utilizar dos docentes en los grupos que son grandes (codocencia).
+
+## Segregación escolar
+
+La segregación es un fenómeno por el cual los estudiantes se distribuyen de forma desigual en unas escuelas y en otras en función de aspectos como las características personales, sociales o de su condición cultural. La Comunidad de Madrid tiene las tasas de segregación escolar más altas.
+
+# Evolución histórica del sistema educativo
+
+España siempre se ha caracterizado por un cambio diverso en las leyes educativas. Primero de todo, es importante mencionar que los fundamentos del derecho a la educación están contemplados en el artículo 27 de la Constitución española. La educación es responsabilidad del Gobierno y las autonomías, y estos tienen que gestionarla. Los padres participan en ello, aunque más en primaria e infantil. Los artículos 148 y 149 de la Constitución aluden a la distinción entre organizaciones generales y territoriales. La educación pertenece a los dos tipos de organizaciones.
+
+-   En 1945, durante el franquismo, se estableció una ley en la que se decía que las mujeres debían aprender a coser, las cosas de casa, etc. (contexto histórico)
+
+-   La **Ley Moyano**(1857) quiso acabar con el analfabetismo en España y dar oportunidad de educación a todas las personas.
+
+-   La **LGE**(1970) fue una ley anterior a la LODE. Fue pionera y la primera en la que se obligó a la escolarización de los niños.
+
+-   La **LODE**(1985), de derecho a la educación fue pionera en cuanto a la gestión de los centros. ![Reparto de competencias de la LODE](imagenes/img3.png){fig-align="center" width="60%"}
+
+-   La **LOGSE**(1990) introduce el término de normalización e integración. Establece la primaria de 6 a 12, la ESO de 12 a 16, teniendo después el Bach y la FP. Introduce el concepto de necesidades educativas especiales las medidas de atención a la diversidad. Divide contenidos en conceptuales, procedimentales y actitudinales.
+
+-   La **LOE**(2006) acuña el concepto de inclusión (en vez de integración), introduce el concepto de alumnado con necesidad específica de apoyo educativo, ampliando el concepto introducido por la LOGSE. Se empezó a incorporar el término de competencias, con 8 competencias.
+
+-   La **LOMCE**(2013) cambia las competencias de 8 a 7. Persigue reducir la tasa de abandono temprano y mejorar los resultados educativos y la empleabilidad, así como el espíritu emprendedor.
+
+-   La **LOMLOE**(2022) vuelve a ampliar el número de competencias a 8, introduce las situaciones de aprendizaje y enlaza las competencias específicas de cada materia con las competencias clave a través de descriptores educativos. Establece la condición de titular y promocionar si se superan los objetivos de etapa, y las repeticiones dependen más de la decisión del profesorado como órgano colegiado.
+
+> ***Mi opinión***: muchas veces la educación queda por detrás de la política, realizando cambios que son un "ir y volver", sin cambios significativos y sin que dé tiempo a comprobar si esos cambios son buenos. Las leyes también acaban enmarcadas en el contexto histórico en el que se crean. Sinceramente, creo que las leyes educativas deberían estar construídas sobre la base de pensamiento de aquellos que están cerca de la educación, y no por gente que no parece haber estado en un centro en décadas.
+
+# La administración educativa y el centro de educación secundaria
+
+## Órganos de gobierno y de participación
+
+Un centro se organiza de la siguiente manera:
+
+![Organigrama del centro](imagenes/img4.png){#fig-org fig-align="center" width="80%"}
+
+Dentro del organigrama del centro, los órganos de gobierno se dividen en:
+
+-   **Unipersonales**: cada órgano tiene un solo representante. Están: la directora, la jefa de estudios y la secretaria.
+
+-   **Colegiados**: formados por varias personas. Están:
+
+    -   El claustro: formado por todo el profesorado.
+
+    -   El consejo escolar: formado por la directora, representantes del AMPA, representantes del alumnado, representante del ayuntamiento, de empresas (en FP).
+
+Entre los órganos de representación están la representación de las familias (APYMA y AMPA) y del alumnado (junta de delegados).
+
+Entre los órganos de coordinación están todos los departamentos de las distintas materias que se cursan, departamentos de orientación, de actividades complementarias y extraescolares, coordinación TIC, coordinación pedagógica (representantes de departamentos, haciendo programaciones de lo que toca en cada curso).
+
+Por último esta el PAS (Personal de Administración y Servicios).
+
+La jefa de estudios planifica los cursos, los desdobles (todo lo que sera didáctica), desarrollo de los planes, funcionamiento del centro, convivencia entre los alumnos, etc. En caso de que el centro sea grande, se pueden asignar jefas de estudios adjuntas para ayudar en la gestión. El profesorado no suele querer los puestos de directora y jefa de estudios (más salario, menos vacaciones y más responsabilidad).
+
+El claustro tiene la responsabilidad de planificar, coordinar, informar y decidir sobre los aspectos educativos del centro. Se realiza una reunión cada trimestre y otras dos más (principio y fin de curso). Las reuniones pueden ser:
+
+-   **Ordinarias**: son perceptivas y convocadas con 4 días de antelación.
+
+-   **Extraordinarias**: las tiene que convocar la dirección o 2/3 del profesorado. 48h de antelación.
+
+El consejo escolar sigue el siguiente esquema:
+
+![Consejo escolar](imagenes/img5.png){#fig-cesc fig-align="center" width="70%"}
+
+Tiene 3 comisiones:
+
+-   **Comisión económica**: lleva las cuentas. Responsable de la economía del centro, ayudas, gastos, etc.
+
+-   **Comisión de convivencia**: en casos de bullying.
+
+-   **Comisión de absentismo**: en casos de absentismo escolar.
+
+-   **Comisión permanente**
+
+### Departamentos
+
+Son órganos básicos encargados de organizar y desarrollar las enseñanzas de las asignaturas, materias, etc. Todos los profesores están obligados a formar parte del departamento. La Consejería de educación es la que determina los departamentos que tienen que constituirse en los institutos. En el caso de profesores que impartan asignaturas de diversos departamentos formarán parte de el que tenga más representación. Los departamentos se reunirán una vez a la semana, siendo estas convocadas y presididas por la jefa de departamento. La asistencia es obligatoria.
+
+### Departamentos de orientación
+
+Compuesto por profesores del centro, entre los que habrá al menos una persona de la especialidad de psicología y pedagogía. En caso de que el instituto esté incluido en programas de integración, la Consejería competente determinará los profesores que se incorporarán en el Departamento de Orientación.
+
+Coordina las actuaciones didácticas que se lleven a cabo con el alumnado que participa en los distintos programas de atención a la diversidad: refuerzo curricular, mejora del aprendizaje y del rendimiento, etc.
+
+### Departamento de Actividades complementarias y extraescolares
+
+Se encarga de promover, organizar y facilitar la realización de las actividades complementarias y extraescolares. Estas actividades tienen que aparecer en la Programación General Anual (PGA). El departamento está integrado por su jefa de departamento (no puede desempeñar cargos directivos) y, en cada asignatura, el profesorado y el alumnado responsable de cada asignatura.
+
+### Comisión de coordinación pedagógica
+
+Es el máximo órgano de coordinación docente del centro. Su finalidad principal es la coordinación de la planificación académica del centro. Está integrada por: la directora, las jefas de estudios (titulares y adjuntas), jefas de departamento, orientadores, la secretaria del centro y, en caso de haber residencia estudiantil, la jefa de residencia. Se reunirá al menos una vez al trimestre, con asistencia obligatoria.
+
+## Proyecto educativo de centro
+
+Recoge el ideal del centro, todos sus proyectos, las respuestas a las necesidades del alumnado, etc. Recoge también los distintos documentos que un centro debe tener.
+
+La **LOMLOE** recoge el principio de autonomía de los centros. Esto es: cómo gestionarse, los horarios
+
+::: {#fig-auton layout="[[1,1], [1]]"}
+![](imagenes/img6.png)
+
+![](imagenes/img7.png)
+
+![](imagenes/img8.png){fig-align="center" width="60%"}
+
+Autonomía de centros.
+:::
+
+El proyecto educativo recoge:
+
+-   Los signos de identidad del centro, prioridades y planteamientos educativos.
+
+-   Organización general del centro.
+
+-   Enseñanzas que se imparten y materias optativas (el teatro es de las más positivas para la convivencia).
+
+-   Objetivos curriculares y línea pedagógica.
+
+-   Modelo de participación en la vida escolar.
+
+-   Proyectos desarrollados por el centro.
+
+-   Plan de atención a la diversidad. (fundamental)
+
+-   Plan de acción tutorial. (fundamental)
+
+-   Plan de orientación académica y profesional. (fundamental)
+
+-   Plan de convivencia. (fundamental)
+
+-   Reglamento de organización y funcionamiento: cuándo son las tutorías, qué pasa si alguien se coge la baja, quién cuida los patios, las horas, etc. (fundamental)
+
+Hay diversas modalidades de autonomía:
+
+::: {#fig-modaut fig-align="center" width="60%"}
+![](imagenes/img9.png)
+
+Modalidades de autonomía
+:::
+
+El proyecto debe ser:
+
+-   Objetivo y realista.
+
+-   Integrador y coherente.
+
+-   Estable y flexible.
+
+-   Claro y preciso.
+
+Este se hace llegar a la Consejería de educación, que realiza una inspección educativa.
+
+El proyecto educativo siempre se destaca en las jornadas de puertas abiertas, respondiendo a la pregunta "¿por qué debo ingresar a mi hija/o?"
+
+En la **PGA** debe contener:
+
+-   Proyecto educativo y sus posibles modificaciones.
+
+-   Calendario académico.
+
+-   Horario del centro, criterios pedagógicos para su elaboración, etc.
+
+-   Programación didáctica de las asignaturas, materias, optativas, etc.
+
+-   El programa anual de las actividades complementarias y extraescolares.
+
+-   Programación anual de las actividades de formación del profesorado.
+
+-   Plan de reuniones de los órganos de gobierno y coordinación.
+
+-   Previsión de convenios y acuerdos.
+
+-   Memoria administrativa, incluyendo: el documento de organización, la estadística de principio de curso, la situación de las instalaciones, etc.
+
+# Planificación y evaluación en el centro de educación secundaria
+
+## La programación desde competencias como proceso clave en la gestión docente
+
+Todo docente debe y tiene que tener planteada su programación. Esta depende de cosas como el número de estudiantes, las aulas, medios tecnológicos, etc. La organización y la didáctica están relacionadas y van de la mano.
+
+Programar es algo intencional. Cada docente persigue unos objetivos en sus asignaturas. Sin embargo, la programación también necesita de improvisación: cambios en el nivel del aula, adaptaciones inesperadas, etc.
+
+La programación tiene unos temas que están contemplados en la **LOMLOE** (Real Decreto 217/2022). en La Rioja, este real decreto se adapta a la comunidad en el Decreto 42/2022. Esto tiene 3 niveles de concreción curricular: el primero es el Decreto de la comunidad, el segundo es el centro (autonomía) y el tercero es el aula/docente. Además, puede hablarse de un nivel 4, en el caso de adaptaciones para determinados estudiantes.
+
+Las programaciones didácticas y las unidades didácticas son diferentes:
+
+![Aspectos importantes de las PD y las UD](imagenes/img10.png){#fig-pdud fig-align="center" width="60%"}
+
+La programación didáctica debe contener:
+
+![Aspectos de la PD](imagenes/img11.png){#fig-pd fig-align="center" width="60%"}
+
+La **LOMLOE** incorporó los elementos de objetivos, competencias clave, específicas, saberes básicos y situaciones de aprendizaje.
+
+En la suma de todas las unidades didácticas de todas las asignaturas de un curso deben estas todas las competencias clave y en las unidades didácticas de cada asignatura deben aparecer todas las específicas, con sus descriptores operativos.
+
+Hay 3 artículos importantes:
+
+-   *Artículo 6*: enuncia los principios pedagógicos.
+
+-   *Artículo 10*: menciona que en algún punto de la enseñanza todo el alumnado debe cursar la materia de Educación en valores cívicos y éticos.
+
+-   *Artículo 11*: enuncia los diferentes objetivos que se deben alcanzar a lo largo del proceso educativo de la educación secundaria. Estos objetivos están relacionados con las competencias específicas.
+
+## Innovación educativa
+
+Todas las comunidades autónomas deben marcar una serie de proyectos de innovación, aunque los centros también pueden proponer proyectos de innovación. Es recomendable que los centros se sumen a estos, ya que vienen acompañados de formación específica, dotación presupuestaria, material, etc.
+
+Entre otros proyectos, en La Rioja destacan:
+
+-   PIE Viaje a la Convivencia.
+
+-   La Rioja es nuestra tierra.
+
+-   APS: construyendo aprendizaje, transformando entorno.
+
+-   Almazuela 2.0.: radio, TV y prensa.
+
+-   Tirar de la Lengua.
+
+## Servicio comunitario
+
+La **LOMLOE** indica que todos los estudiantes de la ESO deben llevar a cabo un servicio comunitario durante la educación secundaria. Está establecido que sea en 3º de la ESO y durará unas 20h. El objetivo es conseguir que el alumnado sea responsable de alguna actividad vinculada con su entorno (limpiar el río o los parques, cuidar el entorno,...). Esta actividad debe aparecer en la PGA.
+
+## Programas de atención a la diversidad
+
+Últimamente es necesario que se creen programas como el de refuerzo curricular y el diversificación.
+
+El programa de diversificación se orienta a alumnos de 3º y 4º de la ESO, para que aquellas personas con más dificultad adquieran el título. Ante todo, es importante mencionar que este programa **no es para personas con diversidad funcional**. Para esas personas existe el programa PROCUA.
+
+El programa de refuerzo curricular está dirigido a alumnos entre 6º de primaria y 1º de la ESO con dificultades en el aprendizaje.
+
+La FP Básica está dirigida a alumnos de 3º de la ESO con dificultades en la línea estándar de la educación secundaria. Cada comunidad tiene sus grados de FP Básica orientados a evitar el abandono y el fracaso escolar.
+
+# Metodología
+
+La metodología es el conjunto de decisiones acerca de la organización del proceso de enseñanza aprendizaje. Los docentes necesitan una serie de características:
+
+-   Actitud positiva y mentalidad de crecimiento.
+
+-   Flexibilidad ante la incertidumbre y el cambio.
+
+-   Busca despertar la curiosidad.
+
+-   Conecta con el entorno y la realidad de los estudiantes.
+
+-   Da coherencia y sentido al proceso de aprendizaje para hacerlo funcional.
+
+-   Digitalmente competente.
+
+-   Sabe de su disciplina y cómo llevarla al aula.
+
+-   Valora la diversidad.
+
+-   Reflexivo e innovador.
+
+-   Trabaja en equipo e integra aportaciones de otros.
+
+-   Favorece la accesibilidad en el aula.
+
+-   Dispuesto a evaluar su acción docente.
+
+-   Participa en redes educativas, aportando y enriqueciéndose.
+
+-   Conocedor de diferentes enfoques y métodos.
+
+El diseño de situaciones de aprendizaje comprende dos partes:
+
+-   **Primera**: responde a las preguntas "¿qué enseñamos?" y "¿para qué enseñamos?". Son los objetivos, competencias, etc.
+
+-   **Segunda**: vinculada a cómo enseñar, es decir, la metodología.
+
+Cuando se diseña una situación de aprendizaje hay que pensar cosas como el tiempo, el contenido, las actividades que se van a plantear, los recursos necesarios, cómo organizar el aula, etc. La propia ley da unas ideas sobre cómo el diseño de la enseñanza tiene que ser: competencial, activo, etc.
+
+Se destacan 2 enlaces:
+
+-   [Teoría de metodologías](https://descargas.intef.es/cedec/proyectoedia/guias/contenidos/orientaciones_metodologia/principios_metodolgicos.html)
+
+-   [Ejemplos](https://programacrea.educarex.es/recursos)
+
+## Tipos de metodologías
+
+Existen diferentes metodologías según en qué están basadas:
+
++-------------------------------+-----------------------------------+
+| Basado en                     | Metodologías                      |
++:=============================:+:=================================:+
+| Investigación                 | * Apr. basado en proyectos        |
+|                               |                                   |
+| y tipología de tareas         | * Apr. basado en problemas:       |
+|                               |                                   |
+|                               |     + P. Computacional            |
+|                               |                                   |
+|                               |     +   Casos                     |
+|                               |                                   |
+|                               |     +   Desing Thinking           |
++-------------------------------+-----------------------------------+
+| Desarrollo personal           | *   Apr. Basado en el Pensamiento |
+|                               |                                   |
+|  \- cognitivo                 |                                   |
++-------------------------------+-----------------------------------+
+| Aprendizaje                   | *   Apr. Cooperativo              |
+|                               |                                   |
+| social                        | *   Apr. Servicio                 |
+|                               |                                   |
+|                               | *   Apr. Dialógico                |
++-------------------------------+-----------------------------------+
+
+: Tipos de metodologías. {.striped .hover}
+
+Es recomendable trabajar hacia una educación que promueva la independencia y la autonomía, la creatividad, la interdisciplinaridad, el uso de las TIC, etc.
+
+### Aprendizaje basado en proyectos
+
+Un proyecto es una forma de plantear el conocimiento de una forma globalizada e interdisciplinar. Es el tema que determina la actividad. La participación de los alumnos es plena: ellos toman todas las decisiones, siempre guiados por el profesor. En este aprendizaje es importante que:
+
+* Los grupos sean heterogéneos.
+
+* Haya confrontación de ideas.
+
+* Se puedan asentar las ideas de otros compañeros.
+
+# Diseño universal para el aprendizaje
+
+Hay personas que prefieren subrayar y repetir (más visual), otros prefieren esquemas, etc. Todo eso son estilos de aprendizaje.
+
+El **DUA** es un paradigma que engloba el diseño de productos y entornos que puedan ser utilizados por todas las personas sin necesidad de adaptación o diseño especializado. Por supuesto, habrá personas que siempre van a requerir adaptaciones, pero lo suyo es minimizarlo. 
+
+Por ejemplo, si doy clases de lengua, no puedo estar todo el rato con el típico comentario de text, porque si hay a quien no se le da bien, le estoy privando de oportunidades para brillar y destacar.
+
+Hay 3 redes, y para fomentar cada una hay que:
+
+* Redes afectivas: Presentar información y contenido de diferentes formas.
+
+* Redes de reconocimiento: Hay que diferenciar formas en las que los estudiantes puedan expresar lo que saben.
+
+* Redes estratégicas: estimular el interés y la motivación para el aprendizaje.
+
+![Principios y pautas del DUA](imagenes/img12.png){#fig-dua fig-align="center" width="80%"}
+
+La evaluación debe ser coherente: un trabajo de larga duración no puede contar solo un 5% de la nota. Si se tienen diferentes actividades, también es necesario tener una variedad de instrumentos: rúbricas, dianas de evaluación, dianas de aprendizaje, etc.
+
+![Rueda del DUA](imagenes/img13.png){#fig-dua fig-align="center" width="80%"}
+
+En el portal de la Junta de Andalucía, en el proyecto REA/DUA hay información sobre situaciones de aprendizaje.
+
+# Evaluación
+
+El proceso de evaluación se estructura en funcion de la recogida de información, su análisis y la emisión de un juicio de valor.
+
+La evaluación debe ser:
+
+* **Continua**: realizarse un seguimiento del progreso.
+
+* **Formativa**: se persigue ayudar en el proceso de aprendizaje. Los criterios de evaluación estarán orientados hacia la consecución de los objetivos de la etapa y de unas competencias clave.
+
+* **Integradora**: en todas las asignaturas se deben evaluar todas las competencias.
+
+El profesor debe tener en cuenta en su programación la evaluación de los estudiantes, pero también su propia evaluación. De cara a una oposición es importante que no se nos olvide los puntos y criterios que vamos a establecer para evaluarnos como docentes: la gestión del tiempo, respetar los principios del DUA, la interdisciplinaridad, la adecuación al nivel de los estudiantes, la funcionalidad de las actividades, etc.
+
+Es importante estar atento a la educación inclusiva.
+
+El punto 10 del artículo 15 del Real Decreto habla sobre promover el uso generalizado de los instrumentos de evaluación. En el Decreto 42/2022 de La Rioja queda establecido que un método de evaluación no puede valer más de un 40% de la nota.
+
+Es posible promocionar a un alumno con asignaturas pendientes, siempre que, de forma colegiada, se evalúe si ese alumno ha cumplido los objetivos relativos al curso. Entre otras cosas, también se determina si promover al alumno puede suponer muchas dificultades en el curso siguiente.
+
+Según la **LOMLOE** se puede repetir 1 vez por etapa (primaria y secundaria). En casos excepcionales se puede repetir 2 veces.
+
+La evaluación inicial tiene como objetivo conocer la situación del alumno o del grupo de alumnos en cuanto al desarrollo de las competencias. A mitad de octubre, los profesores se reúnen para hablar sobre el nivel de la clase, si se ha detectado algún alumno con dificultades, ya sea en general o en alguna asignatura. Los profesores también se reúnen 2 veces por trimestre.
+
+La evaluación final es en la que se establecen las calificaciones. En las reuniones de evaluación, los docentes del grupo ponen en común todas las notas. Siempre van coordinadas del tutor y de la mano del jefe de estudios. A veces también participan personas del departamento de orientación. Para determinar si un alumno promociona (en caso de que no haya consenso), se realiza una votación. en caso de empate, el voto del tutor decanta el resultado.
+
+Cada asignatura tiene establecidas unas competencias específicas. La suma de todas estas competencias de todas las asignaturas, que aluden a las competencias clave mediante los descriptores del perfil de salida, aportan a las competencias clave de la etapa.
+
+En la programación, mediante las unidades didácticas, se establecen los saberes básicos y las competencias específicas y criterios de evaluación que se trabajarán en las diferentes sesiones. La suma de todas las unidades de programación deben atender a todos los criterios de evaluación.
+
+# Atención a la diversidad
+
+La atención a la diversidad es un tema transversal que implica a la organización del centro, el funcionamiento del mismo, los recursos, las dinámicas de aula, los programas, los itinerarios de los estudiantes, etc.
+
+## Rasgos que hacen que las clases sean diversas
+
+![Rasgos diversidad](imagenes/img14.png){#fig-dua fig-align="center" width="80%"}
+
+Hay centros con enfermería y fisioterapeutas que van en horas determinadas.
+
+A partir de los 70 los países del norte se empiezan a plantear que hay personas con distintas capacidades, pero que todos tienen derecho a la educación. Por tanto no hay que segregar por capacidad.
+
+En España se firma en los 90 el informe Salamanca, en el que se empieza a ver el término de "atención a la diversidad" y "necesidades educativas especiales". La Onu y diferentes entidades comienzan a promocionar una educación pública, gratuita, etc. Uno de los cuentos que sirven para simplifficar que el sistema es el que se debe adaptar.
+
+En el 1990, la **LOGSE** introdujo el concepto de "integración". Se apostó por ese principio para garantizar la equidad y la calidad. Ahora se utilizan términnos como normalización e inclusión.
+
+En La Rioja, en el año 2014, se publicó la orden de atención a la diversidad, contemplando cómo tienen que ser los planes de atención a la diversidad. Hay un programa, el PROA+, al que muchos centros se han adherido.
+
+![Medidas de diferentes leyes](imagenes/img15.png){#fig-dua fig-align="center" width="80%"}
+
+![Evolución terminológica](imagenes/img16.png){#fig-dua fig-align="center" width="80%"}
+
+## ACNEAE vs ACNEE
+
+- **ACNEE**: alumnos con necesidades educativas especiales.
+
+- **ACNEAE**: alumnos con necesidades específicas de apoyo educativo.
+
+En el portal [orientación- La Rioja](https://orientacion.larioja.edu.es) hay apartados para la atención específicas en caso de déficits sensoriales, motóricos, etc. Para alumnado con TDAH, enfermos, etc, el enlace [CREENA](https://creena.educacion.navarra.es) también hay información.
+
+## Plan de atención a la diversidad
+
+El **Plan de Atención a la Diversidad** es un documento que recoge de manera abierta y dinámica, programas, medidas, etc., a poner en práctica para ofrecer al alumnado, en especial a aquellos con necesidades específicas. Este plan es algo vivo, que se tiene que ver si se cumple, si las medidas son suficientes, etc.
+
+Hay diferentes tipo de actuaciones y medidas:
+
+![Actuaciones y medidas](imagenes/img17.png){#fig-dua fig-align="center" width="80%"}
+
+Entre las medidas generales están:
+
+- Plan de atención a la diversidad.
+
+- Plan de absentismo.
+
+- Plan de acción tutorial.
+
+- Eliminación de barreras arquitectónicas.
+
+- Formación del profesorado.
+
+- Personal de apoyo educativo.
+
+- Colaboración con entidades sociales.
+
+Mención especial al [PROCUA](https://www.larioja.org/edu-aten-diversidad/normativa).
+
+También está la pedagogía hospitalaria, en el caso de estudiantes que, por su condición o enfermedad no puedan asistir a clase. También existe la vía de atención domiciliaria. Es interesante consultar los proyectos **Faro** y **Adano**.
+
+# Medidas específicas de atención a la diversidad
+
+Son programas organizativos y curriculares de tratamiento personalizado para el alumno con necesidad específica de apoyo educativo, tanto organizativas como metodológicas, con el fin de que pueda alcanzar el máximo posible de las competencias clave y los objetivos del curso.
+
+Es posible modificar alguno de los elementos de la programación para adaptarse a alumnos con dislexia, hipoacusia, etc. Adaptar el tipo de letra, separar las letras, etc., todo sin cambiar la dificultad del examen. En estos casos hablamos de **ACI**(Adaptación curricular indivdualizada).
+
+Las decisiones siempre tienen que buscar la normalización. Hay que seguir ciertos principios:
+
+- Normalización.
+
+- Individualización.
+
+- Significatividad.
+
+- Inclusión.
+
+Las medidas pueden ser:
+
+- **No significativas**: cuando el desfase es poco importante con respecto al grupo de edad del alumno. No modifica objetivos. Suelen ser:
+
+  - De acceso físico: recursos espaciales, materiales y personales.
+  - De acceso a la comunicación: materiales específicos de enseñanza.
+
+- **Significativas**: cuando el desfase es importante y supone modificar, tanto los objetivos como los criterios de evaluación.
+
+La **ONCE** dispone de recursos para personas con discapacidad visual. La fundación **ARPA** aporta personar de apoyo a personas con trastorno del espectro autista. Las aulas TEA tambiñen son aulas en centros ordinarios destinadas a niños con autismo que requieren de un apoyo/refuerzo. Estas aulas empezaron en el colegio Bretón de los Herreros en Logroño.
+
+## No significativas
+
+Entre las ACI no significativa pueden ser:
+
+- Adaptación en la evaluación: modificar y/o adaptar los intrumentos, el tiempo de realización, etc.
+
+- Adaptación en metodología: modificar agrupamientos, actividades alternativas, etc.
+
+- Adaptación en los contenidos: priorizar unos frente a otros.
+
+- Adaptación en los objetivos: sin modificar las enseñanzas mínimas, se trata de priorizar, secuenciar el orden o introducir otros objetivos.
+
+Estas adaptaciones serán propuestas por el equipo docente, bajo la coordinación del profesorado o tutor. Los responsables de la puesta en práctica serán el equipo docente y el orientador. No persigue diseñar una alternativa, sino adaptar la programación.
+
+## Significativas
+
+En estas, la distancia entre el currículo ordinario es de dos cursos o más, como mínimo. Son medidas extraordinarias, previa evaluación psicopedagógica (para ello es necesario el permiso de la familia).
+
+En cuanto a las repercusiones hay que tener en cuenta que:
+
+- Requieren una evaluación psicopedagógica.
+
+- La ACI suele tener una duración mínima de dos cursos para su revisión.
+
+- Requiere de la aprobación de la administración para la dotación de recursos.
+
+- Las adaotaciones se recogerán en un documento de adaptación curricular (**DIAC**).
+
+- Se incluirán en las actas de evaluación y en el expediente del alumno.
+
+![Contenidos del DIAC](imagenes/img18.png){#fig-dua fig-align="center" width="80%"}
+
+Las evaluaciones psicopedagógicas pueden dar lugar a problemas, como que la familia no esté de acuerdo (ha habido juicios, ganando la familia por la legislación y el concepto de "inclusión").
