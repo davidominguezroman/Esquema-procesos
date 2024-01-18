@@ -19,6 +19,8 @@ format:
       fontsize: 12pt
       spacing: onehalf
       section-numbering: true
+      linestretch: 1.5
+      whitespace: none
       indent: true
       geometry: 
         - top=2.5cm
