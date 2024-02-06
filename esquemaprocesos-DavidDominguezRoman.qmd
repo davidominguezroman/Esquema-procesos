@@ -38,9 +38,7 @@ format:
         - \pretitle{\begin{center}
           \includegraphics[width=2in,height=2in]{logo.png}\LARGE\\}
         - \posttitle{\end{center}}
-      include-in-header:
-        text: |
-          \usepackage[font=footnotesize,labelfont={bf,footnotesize}]{caption}
+        - \usepackage[font=footnotesize,labelfont={bf,footnotesize}]{caption}
 ---
 
 \newpage
